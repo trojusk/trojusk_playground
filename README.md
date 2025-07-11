@@ -1,1 +1,1 @@
-# trojusk_playground
+Hey, Welcome to my playground, where i test out scripts and codeblocks before i push them onto my main projects!
